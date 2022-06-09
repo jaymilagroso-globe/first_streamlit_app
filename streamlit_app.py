@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title("SNowflake Badge 2, Lesson 2")
+streamlit.title("Snowflake Badge 2, Lesson 2")
